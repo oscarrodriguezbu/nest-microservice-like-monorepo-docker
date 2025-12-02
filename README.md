@@ -4,7 +4,8 @@
     2. Crear un repositorio con sub módulos que nos permitan enlazar todo nuestro trabajo.
 - En el proyecto se usa de forma opcional para levantar todos los micros a la vez pero tambien se pueden correr individualmente como en `https://github.com/oscarrodriguezbu/nest-microservice-products-detail-orders`
 
-
+# MICROSERVICES - NEST 
+NATS, Webhooks, CI/CD, Git submodules, Gateways, Docker, Kubernetes, GCloud, PosstgreSQL, Mongo, SQLite
 
 ## Dev
 
